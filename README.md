@@ -1,2 +1,4 @@
-# VR-Cybersickness-Research-Project
- VR testing game used to gather elapsed time and cybersickness data as part of my master's thesis.
+# VRCybersicknessResearchProject
+ This is the VR test game used to gather elapsed time and cybersickness data as part of my master's thesis, Mitigating VR Cybersickness Caused by Continuous Joystick Movement. In this project, there are 4 maze levels (1 for a different test case) and 1 tutorial level to help newcomers get acquainted with VR controls. In the procedure of the experimentation process, each participant was tasked with completing 2 of the 4 maze trials after getting used to the controls in the tutorial level. After each maze completion, the participant completed a Simulator Sickness Questionnaire to record how he/she felt after each run regarding cybersickness. This game was created using Unity (editor version 2021.3.18f1 LTS) and built for the Meta Quest 2. The packages used to make it work for VR include the XR Interaction Toolkit and XR Plugin Management packages. For more information regarding the literature review, results, and analysis of the data, please feel free to read my thesis.
+
+ Thesis DOI: https://doi.org/10.25394/PGS.23668833.v1
